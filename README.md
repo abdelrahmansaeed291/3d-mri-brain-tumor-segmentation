@@ -40,7 +40,9 @@ Below is a sample output showing a slice from the 3D MRI scan and its correspond
 
 | Original Slice | Tumor Mask Prediction |
 |----------------|------------------------|
-| ![Original](examples/original_slice.png) | ![Prediction](examples/predicted_mask.png) |
+| ![Original Slice](examples/original_slice.png)
+| ![Prediction](examples/predicted_mask.png)
+
 
 > Images are visualizations from model predictions using the BraTS validation set.
 
