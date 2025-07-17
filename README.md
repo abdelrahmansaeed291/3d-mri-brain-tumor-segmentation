@@ -38,10 +38,10 @@ We use the **BraTS (Brain Tumor Segmentation)** dataset:
 
 Below is a sample output showing a slice from the 3D MRI scan and its corresponding predicted tumor mask:
 
-| Original Slice | Tumor Mask Prediction |
-|----------------|------------------------|
-| ![Original Slice](examples/original_slice.png)
- ![Prediction](examples/predicted_mask.png)
+| Original Slice                                  | Tumor Mask Prediction                        |
+|-------------------------------------------------|----------------------------------------------|
+| ![Original Slice](examples/original_slice.png)  | ![Prediction](examples/predicted_mask.png)   |
+
 
 
 > Images are visualizations from model predictions using the BraTS validation set.
