@@ -57,13 +57,8 @@ Below is a sample output showing a slice from the 3D MRI scan and its correspond
 - matplotlib, seaborn
 - scikit-learn
 
-Install all dependencies using:
 
-```bash
-pip install -r requirements.txt
-```
 
----
 
 ## 👨‍💻 Author
 
